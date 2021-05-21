@@ -1,0 +1,13 @@
+{
+  "name": "prueba-tecnica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Esther Mangas",
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "^1.11.1"
+  }
+}
